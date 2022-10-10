@@ -34,6 +34,7 @@ ________________________________________________________________________________
 
 ### Current Goals 🔭
 To learn more in the path of data science
+
 To build a data pipeline and to make a project on it.
 
 
