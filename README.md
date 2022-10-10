@@ -17,22 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an upcoming SDE at Amazon, India and have previously interned as a Technology Analyst at ZS Associates, India, for a duration of 9.5 months.
-Follow me to stay updated with C++ Coding Solutions
+### I am currently doing my intenship from Bosch Global Software Technologies, India and studying my Btech 4th year from KL University
 
+________________________________________________________________________________________________
 
 ### About Me 📖
 🔁"Strong intuitions come with strong applied knowledge."
+
 🗓️Disciplined, Time bound, works out everything will full dedication and focus.
-📜 DSA and problem solving enthusiant.
+
+📜 Machine learning and data computing enthusiant.
+
 ♾️ In love with Mathematics and Algorithms.
+
 💯 Constant & consistent learner forever.
 
 ### Current Goals 🔭
-Practice Data Structures and Algorithms problems.
-Learn advanced algorithms.
-Learn Web Development and build applications using the MERN stack.
-Learn and practice various Backend and System Design concepts.
+To learn more in the path of data science
+To build a data pipeline and to make a project on it.
 
 
 
