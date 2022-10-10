@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, my name is Vineeth
+💻 😃 💻
 <!--
 **harshithpadi/harshithpadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
